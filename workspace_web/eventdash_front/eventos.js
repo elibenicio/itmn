@@ -21,7 +21,7 @@ function gerarRelatorio(){
 }
 
 function preencheRelatorio(lista){
-    var strTabela = `<table class="table table-hover">
+    var strTabela = `<hr><table class="table table-hover">
                          <thead>
                             <tr>
                                 <th class="col">#</th>

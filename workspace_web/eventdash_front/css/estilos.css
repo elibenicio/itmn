@@ -1,0 +1,85 @@
+    /*comentários dentro do style*/
+    p{
+        font-size: 12px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+    }
+    h1{
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bolder;
+        color: black;
+    }
+    body{
+        background-color: #021167;
+    }
+    
+    /*criando uma classe de estilo dentro do CSS*/
+    .observacao{
+        font-size: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: red;
+    }
+    .menu{
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(27, 255, 6);
+    }
+    .form{
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:black;
+        background-color: rgba(255, 255, 255, 0.39);
+    }
+
+    /*criando uma classe de estilo para os campos do formulario*/
+    .campo_nome{
+        width: 240px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 10px;
+        color: red;
+        background-color: rgba(169, 169, 169, 0.39);
+    }
+    .campo_email{
+        width: 240px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 10px;
+        color: red;
+        background-color: rgba(169, 169, 169, 0.39);
+    }
+
+    .campo_senha{
+        width: 240px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 10px;
+        color: red;
+        background-color: rgba(169, 169, 169, 0.39);
+    }
+
+    .head{
+        width: 100%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        color: red;
+        background-color: #f47920;
+    }
+
+
+    /*criando estilos para o boostrap*/
+    .container{
+        border: 0px solid black;
+    }
+    .div1{
+        background-color: yellow;
+    }
+    .div2{
+        background-color: blue;
+    }
+    .div3{
+        background-color: red;
+    }
+    .div4{
+        background-color: green;
+    }
+
+    
